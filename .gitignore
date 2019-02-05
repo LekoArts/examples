@@ -1,0 +1,12 @@
+.idea
+yarn-debug.log*
+yarn-error.log*
+node_modules
+.npm
+# gatsby files
+.cache/
+public
+
+# Mac files
+.DS_Store
+yarn-error.log
